@@ -1,0 +1,112 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="">
+<!--<![endif]-->
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Integrationsbund Mitte</title>
+<link href="boilerplate.css" rel="stylesheet" type="text/css">
+<link href="../../../../../../ibm_styles.css" rel="stylesheet" type="text/css">
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="respond.min.js"></script>
+</head>
+
+
+
+<body>
+	<div class="gridContainer clearfix">
+    
+    <a href="../ibm_web/ibm_index">
+    	<img class="logo" src="img/Logo_web.png" alt="Logo Integrationsbund Mitte">
+    
+    </a>
+    
+     <!--     <div id="div1" class="fluid">Use Insert Panel for additional Fluid Grid Layout Elements. Note: All Fluid Layout tags must be contained within the "gridContainer" div tag.</div>-->
+	
+    <header> 
+    
+    	<nav>
+        	
+            <div class="button">
+            	<a href="ibm_index.html"> HOME 
+            	</a>
+            </div>
+            
+            <div class="button">
+            	<a href="ibm_werwirsind.html"> WER WIR SIND
+            	</a>
+            </div>
+            
+            <div class="button">
+            	<a href="ibm_kontakt.html"> KONTAKT 
+            	</a>
+            </div>
+            
+            <div class="button">
+            	<a href="ibm_impressum.html"> IMPRESSUM 
+            	</a>
+            </div>
+            
+            <!--
+            <a href="ibm_galerie.html"> Galerie 
+            </a>
+            
+            <a href="ibm_bedarfsliste.html"> Bedarfsliste 
+            </a>
+            
+            <a href="ibm_spenden.html"> Spenden 
+            </a>
+            
+            -->
+                
+        
+        </nav>
+    
+    </header>
+    
+    <div class="titel">
+    	<img class="titelbild" src="img/ibm_testtitel.jpg" alt="Test">
+    </div>
+   
+  
+    <div class="box">
+    	
+    
+    
+    	<div class="feed">
+        	
+            <img class="feedhead" src="img/test_feed.jpg" alt="Testfeed">
+        	
+        
+        </div>
+        
+       
+    	
+    
+    
+    </div>
+    
+    
+   
+    
+    
+   </div> 
+    
+</body>
+</html>
